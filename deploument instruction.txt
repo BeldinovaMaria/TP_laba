@@ -2,7 +2,7 @@
  
 1.	Установка web-приложения
 
-1.1.	Перейти	в	github: https://github.com/BeldinovaMaria/TP_laba
+1.1.	Перейти	в	github: https://github.com/BeldinovaMaria/TP_laba/edit/main/deploument%20instruction.txt
 
 7 ИНСТРУКЦИЯ ПОЛЬЗОВАТЕЛЯ СИСТЕМЫ
 
